@@ -1,13 +1,6 @@
 # 🩺 Diabetes Prediction using Machine Learning
 
-A machine learning web application that predicts whether a person is likely to have diabetes based on medical diagnostic measures like glucose level, BMI, insulin, age, and more.
-
----
-
-## 📸 Demo
-![App Screenshot](images/demo.png)
-
-*(Upload a screenshot or Streamlit demo GIF of your app here.)*
+A machine learning jupyter notebook that predicts whether a person is likely to have diabetes based on medical diagnostic measures like glucose level, BMI, insulin, age, and more.
 
 ---
 
@@ -52,20 +45,5 @@ A machine learning web application that predicts whether a person is likely to h
 
 ---
 
-## 🔧 Installation
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/<your-username>/diabetes-predictor.git
-cd diabetes-predictor
-
-# 2. Create virtual environment (optional)
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the app
-streamlit run app.py
 
